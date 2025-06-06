@@ -1,4 +1,7 @@
-# CNMV Portfolio extraction
+    [['US0082521081 - ACCIONES|Affiliated Managers Group', 'USD', '2.071', '0,80', '0', '0,00'],
+    ['FR0011476928 - ACCIONES|Fnac Darty SA', 'EUR', '222', '0,09', '0', '0,00'],
+    ['US5006881065 - ACCIONES|Kosmos Energy LTD', 'USD', '3.145', '1,22', '4.726', '1,05'],
+    ['IT0005252140 - ACCIONES|Saipem SPA', 'EUR', '2.631', '1,02', '5.321', '1,18']] CNMV Portfolio extraction
 
 ![](https://files.catbox.moe/4b74gp.jpg)
 
