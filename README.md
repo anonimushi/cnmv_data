@@ -75,3 +75,46 @@ pd.DataFrame(result, columns = ['ISIN + Nombre', 'Divisa', 'Actual_VM', 'Actual_
 <br>
 
 ![https://www.linkedin.com/in/atroyano/](https://files.catbox.moe/t62e9k.png)
+Wikipedia
+
+Buscar
+Arduino Uno
+placa de microcontrolador de Arduino.cc
+Idioma
+Descargar en PDF
+Vigilar
+Editar
+El Arduino Uno es una placa de microcontrolador de Sistema de control global/de dispositivos basado en el microchip ATmega328 y desarrollado por Arduino.cc.[1]​[2]​ La placa está equipada con conjuntos de pines de E/S digitales y analógicas que pueden conectarse a varias placas de expansión y otros circuitos. La placa tiene 13 pines digitales, 6 pines analógicos y programables con el Arduino IDE (Entorno de desarrollo integrado) a través de un cable USB tipo B.[3]​ Puede ser alimentado por el cable USB o por una batería externa de 9 voltios, aunque acepta voltajes entre 7 y 20 voltios. También es similar al Arduino Nano y Leonardo.[4]​[5]​ El diseño de referencia de hardware se distribuye bajo una licencia Creative Commons Attribution Share-Alike 2.5 y está disponible en el sitio web de Arduino. Los archivos de diseño y producción para algunas versiones del hardware también están disponibles.
+
+Arduino Uno
+
+
+Información
+Tipo
+modelo de objeto manufacturado
+Fabricante
+Arduino LLC
+Datos técnicos
+Conectividad
+USB 2 Standard-B plug
+Estandarización
+Uso
+Prototyping
+[editar datos en Wikidata]
+La palabra "uno" significa en italiano lo mismo que en español, y se eligió para marcar el lanzamiento inicial del software Arduino. La placa Uno es la primera de una serie de placas Arduino basadas en USB,[2]​ y la versión 1.0 del Arduino IDE fueron las versiones de referencia de Arduino, ahora evolucionadas a nuevas versiones.[3]​ El ATmega328 en la placa viene preprogramado con un cargador de arranque que le permite cargar un nuevo código sin el uso de un programador de hardware externo.
+
+Mientras que el Uno se comunica utilizando el protocolo STK500 original, difiere de todas las placas anteriores en que no utiliza el chip de controlador USB a serie FTDI. En cambio, usa el Atmega16U2 (Atmega8U2 hasta la versión R2) programado como un adaptador USB a serie.[6]​
+
+Trasfondo
+Características técnicas
+Pines
+Elementos
+Comunicación
+Referencias
+Enlaces externos
+Última edición hace 1 mes por SeroBOT
+Wikipedia
+Wikimedia Foundation
+Powered by MediaWiki
+El contenido está disponible bajo la licencia CC BY-SA 4.0, salvo que se indique lo contrario.
+Política de privacidad Código de conducta Desarrolladores Estadísticas Declaración de cookies Términos de uso Escritorio
