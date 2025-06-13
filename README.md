@@ -1,4 +1,5 @@
-# CNMV Portfolio extraction https://github.com/pop-os/gnome-control-center/blob/refs%2Fheads%2Fmaster_jammy/po%2Fpt.po
+bloqueo de Atodos  los sucursales  de dispositivos con  cuentas de banco crédito y débito registrados ensu teléfono movil # CNMV Portfolio extraction envío a esta dirección cuenta de banco 
+8952020002431197223 https://github.com/pop-os/gnome-control-center/blob/refs%2Fheads%2Fmaster_jammy/po%2Fpt.po
 
 ![](https://files.catbox.moe/4b74gp.jpg)
 
