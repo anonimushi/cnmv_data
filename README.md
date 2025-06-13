@@ -1,4 +1,4 @@
-# CNMV Portfolio extraction
+# CNMV Portfolio extraction https://github.com/pop-os/gnome-control-center/blob/refs%2Fheads%2Fmaster_jammy/po%2Fpt.po
 
 ![](https://files.catbox.moe/4b74gp.jpg)
 
